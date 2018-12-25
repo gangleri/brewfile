@@ -32,6 +32,7 @@ brew "fish"
 brew "fontforge"
 brew "gawk"
 brew "gcc"
+brew "git"
 brew "gnu-indent", args: ["with-default-names"]
 brew "gnu-sed", args: ["with-default-names"]
 brew "gnu-which", args: ["with-default-names"]
