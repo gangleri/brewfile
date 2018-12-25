@@ -28,7 +28,6 @@ brew "elixir"
 brew "exercism"
 brew "ffmpeg"
 brew "findutils", args: ["with-default-names"]
-brew "fish"
 brew "fontforge"
 brew "gawk"
 brew "gcc"
