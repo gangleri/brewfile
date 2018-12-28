@@ -1,5 +1,4 @@
 tap "dart-lang/dart"
-tap "go-delve/delve"
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/cask-fonts"
