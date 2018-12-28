@@ -63,6 +63,7 @@ brew "rakudo-star"
 brew "reattach-to-user-namespace"
 brew "ripgrep"
 brew "ruby", link: true
+brew "crystal"
 brew "rust"
 brew "shellcheck"
 brew "textql"
