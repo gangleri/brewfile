@@ -36,7 +36,6 @@ brew "gnu-indent", args: ["with-default-names"]
 brew "gnu-sed", args: ["with-default-names"]
 brew "gnu-which", args: ["with-default-names"]
 brew "gnutls"
-brew "gradle"
 brew "grip"
 brew "pkg-config"
 brew "guile"
