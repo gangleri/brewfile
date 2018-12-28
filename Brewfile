@@ -65,6 +65,7 @@ brew "ripgrep"
 brew "ruby", link: true
 brew "crystal"
 brew "rust"
+brew "redis"
 brew "shellcheck"
 brew "textql"
 brew "tmate"
