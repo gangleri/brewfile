@@ -50,7 +50,7 @@ brew "gcc"
 brew "git"
 brew "gnu-indent"
 brew "gnu-sed"
-brew "gnu-which", args: ["with-default-names"]
+brew "gnu-which"
 brew "grip"
 brew "guile"
 brew "hadolint"
