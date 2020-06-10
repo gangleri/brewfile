@@ -113,10 +113,9 @@ brew "charmbracelet/tap/glow"
 brew "dart-lang/dart/dart"
 brew "github/gh/gh"
 brew "secrethub/tools/secrethub-cli"
-cask "alacritty"
 cask "font-fira-code"
 cask "font-hack-nerd-font"
-cask "keepassxc"
+cask "jetbrains-toolbox"
 cask "ngrok"
 mas "1Password 7", id: 1333542190
 mas "Amphetamine", id: 937984704
