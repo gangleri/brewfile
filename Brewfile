@@ -73,6 +73,7 @@ brew "leiningen"
 brew "libcello"
 brew "lolcat"
 brew "make"
+brew "mas"
 brew "mit-scheme"
 brew "nasm"
 brew "neovim"
@@ -117,3 +118,14 @@ cask "font-fira-code"
 cask "font-hack-nerd-font"
 cask "keepassxc"
 cask "ngrok"
+mas "1Password 7", id: 1333542190
+mas "Amphetamine", id: 937984704
+mas "feedly", id: 865500966
+mas "GarageBand", id: 682658836
+mas "iMovie", id: 408981434
+mas "Keynote", id: 409183694
+mas "Magnet", id: 441258766
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Slack", id: 803453959
+mas "Xcode", id: 497799835
